@@ -7,7 +7,7 @@ SPA Authentication using React and DRF
     e.reset password using mail  
     f.change password  
   
-2.React Fronend  
+2.React Frontend  
     a.Login  
     b.Logout  
     c.Register  
