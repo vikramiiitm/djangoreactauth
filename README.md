@@ -1,3 +1,4 @@
+SPA Authentication using React and DRF  
 1.DJANGO REST API FOR AUTHENTICATION  
     a.Login  
     b.Logout  
