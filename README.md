@@ -1,4 +1,4 @@
-1. DJANGO REST API FOR AUTHENTICATION
+1.DJANGO REST API FOR AUTHENTICATION
     a.Login
     b.Logout
     c.Register
@@ -11,4 +11,3 @@
     b.Logout
     c.Register
     d.Account activation from activation link(check mail)
-    
